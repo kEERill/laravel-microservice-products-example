@@ -1,0 +1,6 @@
+src/vendor/
+src/bootstrap/cache/*.php
+src/storage/*.log
+src/storage/*.json
+src/storage/app/public
+src/storage/clockwork
